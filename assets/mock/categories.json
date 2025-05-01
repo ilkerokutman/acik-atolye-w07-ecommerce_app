@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Elektronik",
+    "icon": "devices"
+  },
+  {
+    "id": 2,
+    "name": "Giyim",
+    "icon": "checkroom"
+  },
+  {
+    "id": 3,
+    "name": "Ev & Yaşam",
+    "icon": "home"
+  },
+  {
+    "id": 4,
+    "name": "Kitap & Kırtasiye",
+    "icon": "book"
+  },
+  {
+    "id": 5,
+    "name": "Kozmetik",
+    "icon": "face"
+  },
+  {
+    "id": 6,
+    "name": "Spor & Outdoor",
+    "icon": "sports_soccer"
+  },
+  {
+    "id": 7,
+    "name": "Oyuncak & Hobi",
+    "icon": "toys"
+  },
+  {
+    "id": 8,
+    "name": "Mobilya",
+    "icon": "chair"
+  },
+  {
+    "id": 9,
+    "name": "Mutfak",
+    "icon": "kitchen"
+  },
+  {
+    "id": 10,
+    "name": "Bahçe",
+    "icon": "yard"
+  },
+  {
+    "id": 11,
+    "name": "Otomotiv",
+    "icon": "directions_car"
+  },
+  {
+    "id": 12,
+    "name": "Sağlık",
+    "icon": "medical_services"
+  },
+  {
+    "id": 13,
+    "name": "Takı & Aksesuar",
+    "icon": "diamond"
+  },
+  {
+    "id": 14,
+    "name": "Evcil Hayvan",
+    "icon": "pets"
+  },
+  {
+    "id": 15,
+    "name": "Bebek & Çocuk",
+    "icon": "child_care"
+  }
+]
